@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanHelpers", "IbanHelpers\IbanHelpers.csproj", "{7638D9BF-DE71-4B7C-92FB-222203570657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IbanHelpers.Tests", "IbanHelpers.Tests\IbanHelpers.Tests.csproj", "{A8E87801-401E-4FAA-990F-F393BF2AE5E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7638D9BF-DE71-4B7C-92FB-222203570657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7638D9BF-DE71-4B7C-92FB-222203570657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7638D9BF-DE71-4B7C-92FB-222203570657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7638D9BF-DE71-4B7C-92FB-222203570657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E87801-401E-4FAA-990F-F393BF2AE5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E87801-401E-4FAA-990F-F393BF2AE5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E87801-401E-4FAA-990F-F393BF2AE5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E87801-401E-4FAA-990F-F393BF2AE5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
